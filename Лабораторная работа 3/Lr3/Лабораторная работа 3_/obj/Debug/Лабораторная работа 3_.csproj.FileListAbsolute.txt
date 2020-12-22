@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\bin\Debug\Лабораторная работа 3_.exe.config
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\bin\Debug\Лабораторная работа 3_.exe
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\bin\Debug\Лабораторная работа 3_.pdb
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\obj\Debug\Лабораторная работа 3_.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\obj\Debug\Лабораторная_работа_3_.Properties.Resources.resources
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\obj\Debug\Лабораторная работа 3_.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\obj\Debug\Лабораторная работа 3_.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\obj\Debug\Лабораторная работа 3_.exe
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\obj\Debug\Лабораторная работа 3_.pdb
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\obj\Debug\Лабораторная_работа_3_.CalculateForm.resources
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\obj\Debug\Лабораторная_работа_3_.MainForm.resources
+C:\Users\Admin\source\repos\Лабораторная работа 3\Лабораторная работа 3_\obj\Debug\Лабораторная_работа_3_.ConstructForm.resources
