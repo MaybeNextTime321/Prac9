@@ -1,0 +1,11 @@
+F:\prac\prac9\prac\bin\Debug\prac.exe.config
+F:\prac\prac9\prac\bin\Debug\prac.exe
+F:\prac\prac9\prac\bin\Debug\prac.pdb
+F:\prac\prac9\prac\obj\Debug\prac.csprojAssemblyReference.cache
+F:\prac\prac9\prac\obj\Debug\prac.Form1.resources
+F:\prac\prac9\prac\obj\Debug\prac.Properties.Resources.resources
+F:\prac\prac9\prac\obj\Debug\prac.csproj.GenerateResource.cache
+F:\prac\prac9\prac\obj\Debug\prac.csproj.CoreCompileInputs.cache
+F:\prac\prac9\prac\obj\Debug\prac.exe
+F:\prac\prac9\prac\obj\Debug\prac.pdb
+F:\prac\prac9\prac\obj\Debug\prac.Form2.resources
